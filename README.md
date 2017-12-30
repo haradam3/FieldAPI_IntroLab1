@@ -19,4 +19,7 @@ Samples are written in C#, using Microsoft Visual Studio 2015, .NET 4.5.2.
 
 Dependency: RestSharp 106.2.0 
 
+For detailed explanation, please take a look at this post: 
+https://fieldofviewblog.wordpress.com/2015/04/08/lab1-hello-field-world/
+
 Last updated: 12/30/2017 by M.Harada
