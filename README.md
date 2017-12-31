@@ -15,11 +15,19 @@ http://www.autodeskbim360.com/bim360-field-trial
 
 * No key and secret are needed to use Field API. 
 
-Samples are written in C#, using Microsoft Visual Studio 2015, .NET 4.5.2.
+The project is written in C#, using Microsoft Visual Studio 2015, .NET 4.5.2.
 
-Dependency: RestSharp 106.2.0 
+Dependency: RestSharp 106.2.0 (NuGet will automatically download the package when you build.) 
+
+Disclaimer: Minimum error checking for simplicity and readability to focus on learning BIM 360 Field API.
 
 For detailed explanation, please take a look at this post: 
 https://fieldofviewblog.wordpress.com/2015/04/08/lab1-hello-field-world/
+
+(Note: The project here is slightly updated. But the basic usage of Field API itself is the same.)
+
+For additional information about BIM 360 Field API, please refer to: https://fieldofviewblog.wordpress.com/field/
+
+Written by M.Harada, March 2015.
 
 Last updated: 12/30/2017 by M.Harada
