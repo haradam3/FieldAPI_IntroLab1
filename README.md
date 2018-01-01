@@ -1,9 +1,11 @@
 # Field API Intro Lab 1 - Hello Field API
 
-This is a part of introductory materials for BIM 360 Field API.
+This is a part of introductory materials for BIM 360 Field API discussed here:
+
+https://fieldofviewblog.wordpress.com/2015/04/02/field-api-intro-labs-overview/
 
 The labs consist of four modules. Starting from Lab 1, it incrementally 
-adds code or reuse the code you have written, and implement a simple web service application  
+adds code or reuse the code you have written, and implement a simple web service application.  
 
 This is THE minimum project that demonstrates how to make Field REST API call. In this lab, you learn what REST API is, 
 how to make a request and obtain response, and login to Field web services through API. 
